@@ -1,0 +1,792 @@
+.en {
+  position: absolute;
+  left: 5.61%;
+  right: 91.76%;
+  top: 1.55%;
+  bottom: 97.61%;
+  font-family: "inter,san-serif";
+  font-family: "proxima-nova", sans-serif;
+  font-style: normal;
+  font-weight: 200px;
+  font-size: 19px;
+  line-height: 24px;
+  color: #262626;
+}
+
+.arr {
+  position: absolute;
+  left: 8.61%;
+  right: 90.94%;
+  top: 3.5%;
+  bottom: 97.96%;
+
+  color: #22262a;
+}
+.US {
+  position: absolute;
+  left: 10.94%;
+  right: 87.4%;
+  top: 0.06%;
+  bottom: 60.61%;
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 1px;
+  color: #22262a;
+}
+.arr2 {
+  position: absolute;
+  left: 14.61%;
+  right: 90.94%;
+  top: 3.5%;
+  bottom: 97.96%;
+  color: #22262a;
+}
+
+.my {
+  position: absolute;
+  left: 67.47%;
+  right: 26.73%;
+  top: 1.49%;
+  bottom: 97.67%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1px;
+  color: #262626;
+}
+
+.pro {
+  position: absolute;
+  left: 66.01%;
+  right: 3.96%;
+  top: 3%;
+  bottom: 90.84%;
+  height: 1x;
+  width: 15px;
+  color: #22262a;
+}
+.cart {
+  position: absolute;
+  left: 73.5%;
+  right: 1.5%;
+  top: 2.9%;
+  bottom: 31.25%;
+  /* line-height: 20px; */
+
+  /* border: 2px solid #22262A; */
+}
+
+.rou {
+  position: absolute;
+  left: 74%;
+  right: 00%;
+  top: 1%;
+  bottom: 0%;
+  /* background: #FB7181; */
+
+  /* border: 2px solid #FFFFFF; */
+}
+.to {
+  position: absolute;
+  left: 74.7%;
+  right: 35%;
+  top: 0.5%;
+  bottom: 10%;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 100%;
+
+  text-align: center;
+  letter-spacing: 0.5px;
+
+  color: white;
+}
+.it {
+  position: absolute;
+  left: 78.15%;
+  right: 17.32%;
+  top: 1.1%;
+  bottom: 9.68%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2px;
+
+  color: #262626;
+}
+
+.oo {
+  position: absolute;
+  left: 82.51%;
+  right: 11.72%;
+  top: 1.51%;
+  bottom: 97.65%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1px;
+
+  color: #262626;
+
+  opacity: 0.5;
+}
+
+.se {
+  position: absolute;
+  left: 86.85%;
+  right: 9.75%;
+  top: 2.95%;
+  bottom: 97.72%;
+
+  /* background: #22262A; */
+}
+
+.divi {
+  position: absolute;
+  left: -0.43%;
+  right: 0.4%;
+  top: 8.88%;
+  bottom: 97.05%;
+
+  background: #fafafb;
+  /* background-color: #22262A; */
+}
+
+.bg {
+  position: absolute;
+  left: 6.6%;
+  right: 11px;
+  top: 15%;
+  bottom: 100%;
+  height: 34px;
+  width: 34px;
+
+  background: #40bfff;
+  border-radius: 12px;
+}
+
+.tri {
+  position: absolute;
+  left: 7.2%;
+  right: 16.67%;
+  top: 16.2%;
+  bottom: 2.78%;
+  background: #40bfff;
+  transform: rotate(90deg);
+}
+.ecom {
+  position: absolute;
+  left: 10%;
+  right: 83.14%;
+  top: 16.38%;
+  bottom: 94.68%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 23px;
+
+  color: #22262a;
+}
+
+.ho {
+  position: absolute;
+  left: 33.88%;
+  right: 59.45%;
+  top: 3.89%;
+  bottom: 94.85%;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 160px;
+  color: #40bfff;
+}
+
+.ba {
+  position: absolute;
+  left: 45.07%;
+  right: 48.59%;
+  top: 3.89%;
+  bottom: 94.85%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 160px;
+  /* identical to box height */
+
+  color: #262626;
+}
+
+.sn {
+  position: absolute;
+  left: 55.93%;
+  right: 34.13%;
+  top: 3.89%;
+  bottom: 94.85%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 160px;
+
+  color: #262626;
+}
+
+.be {
+  position: absolute;
+  left: 70.39%;
+  right: 24.14%;
+  top: 3.89%;
+  bottom: 94.85%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 160px;
+  /* identical to box height */
+
+  color: #262626;
+}
+
+.co1{
+  position: absolute;
+  left: 80.38%;
+  right: 9.75%;
+  top: 3.89%;
+  bottom: 94.85%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 160px;
+
+  color: #262626;
+}
+
+.li {
+  position: absolute;
+  left: -0.03%;
+  right: 0%;
+  top: 23.72%;
+  bottom: 90.5%;
+  height: 31px;
+  width: 1500px;
+
+  background: #f6f7f8;
+  opacity: 0.5;
+}
+
+.hd {
+  position: absolute;
+  left: 46%;
+  right: 51.8%;
+  top: 7.23%;
+  bottom: 92%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 208px;
+  /* identical to box height */
+
+  color: #33a0ff;
+}
+
+.sl {
+  position: absolute;
+  left: 50.5%;
+  right: 50.93%;
+  top: 7.4%;
+  bottom: 92%;
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 208px;
+  color: #c1c8ce;
+}
+
+.dea {
+  position: absolute;
+  left: 51.67%;
+  right: 45.67%;
+  top: 7.4%;
+  bottom: 92%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 208px;
+
+  color: #262626;
+}
+
+.hot {
+  position: absolute;
+  left: 5.86%;
+  right: 7.14%;
+  top: 36.24%;
+  bottom: 72.8%;
+  height: 251px;
+  width: 200px;
+
+  background: #f6f7f8;
+}
+
+.hot1 {
+  position: absolute;
+  left: 5.2%;
+  right: 8.07%;
+  top: 1%;
+  bottom: 8.16%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 2px;
+  /* identical to box height */
+
+  color: #22262a;
+}
+
+.lit {
+  position: absolute;
+  left: 6.2%;
+  right: 8.54%;
+  top: 13.06%;
+  bottom: 79.17%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 22px;
+  color: #262626;
+}
+
+.cou {
+  position: absolute;
+  left: 80.98%;
+  right: 76.29%;
+  top: 13.06%;
+  bottom: 79.51%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #22262a;
+}
+.op {
+  opacity: 0.39;
+}
+.ari {
+  color: #33a0ff;
+  opacity: 0.9 !important;
+}
+
+.pri {
+  position: absolute;
+  left: 5.86%;
+  right: 7.14%;
+  top: 87.24%;
+  bottom: 72.8%;
+  height: 100px;
+  width: 200px;
+
+  background: #f6f7f8;
+}
+
+.PRI1 {
+  position: absolute;
+  left: 5.2%;
+  right: 87.67%;
+  top: 1%;
+  bottom: 74.14%;
+
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 2px;
+  /* identical to box height */
+
+  color: #22262a;
+}
+
+.lit2 {
+  position: absolute;
+  left: 6.2%;
+  right: 8.54%;
+  top: 20.06%;
+  bottom: 79.17%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 22px;
+  color: #262626;
+}
+.cou2 {
+  position: absolute;
+  left: 40.98%;
+  right: 7.29%;
+  top: 23.68%;
+  bottom: 7.51%;
+
+  font-family: "Proxima Nova" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #22262a;
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 12.8%;
+  outline: none;
+  position: absolute;
+  margin: auto;
+  top: 105%;
+  bottom: 0;
+  left: 7%;
+  background-color: #2e90e5;
+  pointer-events: none;
+  /* border: 2px solid #FFFFFF; */
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 10px;
+  width: 10px;
+  background-color: #2e90e5;
+  cursor: pointer;
+  margin-top: -11px;
+  pointer-events: auto;
+  border-radius: 50%;
+  border: #f6f7f8;
+  border: 2px solid #ffffff;
+}
+
+input[type="range"]:active::-webkit-slider-thumb {
+  background-color: #2e90e5;
+
+  border: 2px solid #ffffff;
+}
+.slider {
+  width: 12%;
+  height: 3px;
+  position: absolute;
+  margin: auto;
+  top: 100%;
+  bottom: -2.8%;
+  left: 7.35%;
+  border-radius: 5px;
+  background-color: #2e90e5;
+}
+
+.colo {
+  position: absolute;
+  left: 5.86%;
+  right: 7.14%;
+  top: 110.24%;
+  bottom: 72.8%;
+  height: 80px;
+  width: 200px;
+
+  background: #f6f7f8;
+}
+.co {
+  position: absolute;
+  left: 5.2%;
+  right: 8.07%;
+  top: 1%;
+  bottom: 8.16%;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 2px;
+  color: #22262a;
+}
+
+.blue {
+  position: absolute;
+  left: 9%;
+  right: 89.94%;
+  top: 35%;
+  bottom: 60.45%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #006cff;
+  background-color: #006cff;
+
+  word-spacing: 10px;
+}
+
+.blu {
+  border: 2px solid #006cff;
+  opacity: 0.5;
+  border-radius: 50px;
+  height: 17px;
+  width: 17px;
+  position: absolute;
+  left: 7.20%;
+  right: 89.94%;
+  top: 50.70%;
+  bottom: 60.45%;
+}
+.or {
+  position: absolute;
+  left: 24%;
+  right: 89.94%;
+  top: 35%;
+  bottom: 66.45%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #fc3e39;
+  background-color: #fc3e39;
+  word-spacing: 10px;
+}
+.bla {
+  position: absolute;
+  left: 39%;
+  right: 89.94%;
+  top: 35%;
+  bottom: 66.45%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #171717;
+  background-color: #171717;
+}
+.yel {
+  position: absolute;
+  left: 54%;
+  right: 89.94%;
+  top: 35%;
+  bottom: 66.45%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #fff600;
+  background-color: #fff600;
+}
+.ros {
+  position: absolute;
+  left: 69%;
+  right: 89.94%;
+  top: 35%;
+  bottom: 66.45%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #ff00b4;
+  background-color: #ff00b4;
+}
+.gol {
+  position: absolute;
+  left: 84%;
+  right: 89.94%;
+  top: 35%;
+  bottom: 66.45%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #efdfdf;
+  background-color: #efdfdf;
+}
+
+.but{
+    position: absolute;
+    left: 5.86%;
+    right: 7.14%;
+    top: 129.24%;
+    bottom: 72.8%;
+    height: 56px;
+    width: 200px;
+  
+    background: #F6F7F8
+    ;
+  }
+
+.butto{
+    
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+font-family: 'Poppins' sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+color: #262626;
+border: #F6F7F8;
+  }
+
+.butto:hover{
+    background-color: #F6F7F8
+    ;
+  }
+
+.adi{
+  position: absolute;
+left: 26.94%;
+right: 12%;
+top: 36.20%;
+bottom: 25.28%;
+
+background: #40BFFF;
+}
+  
+.shoe1{
+  position: absolute;
+left: 44.5%;
+right: -10.02%;
+top: -19%;
+bottom: 80.5%;
+height: 260px;
+/* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+
+.adit{
+  position: absolute;
+left: 9.26%;
+right: 42.34%;
+top: -1%;
+bottom: 82.91%;
+
+font-family: 'Poppins' sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 45px;
+
+color: #FFFFFF;
+
+}
+
+
+.per{
+  position: absolute;
+left: 9.26%;
+right: 42.34%;
+top: 47.86%;
+bottom: 82.91%;
+
+font-family: 'Poppins' sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+}
+
+.SHOP{
+  position: absolute;
+left: 9.29%;
+right: 60.8%;
+top: 69.95%;
+bottom: 81.41%;
+
+font-family: 'Poppins' sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.line{
+  position: absolute;
+left: 9.29%;
+right: 63.2%;
+top: 83.69%;
+bottom: 81.22%;
+height: 2.7px;
+width: 37.40px;
+
+background: #FFFFFF;
+}
+
+.lis{
+  
+position: absolute;
+left: 26.94%;
+right: 8.95%;
+top: 77.53%;
+bottom: 76.45%;
+height:58px ;
+width: 773px;
+
+background:#F6F7F8;
+}
+
+.items13{
+  position: absolute;
+left: 2.43%;
+right: 6.76%;
+top: 6.22%;
+bottom: 7.11%;
+
+font-family: 'Proxima Nova' sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+color: #22262A;
+
+}
+
+.sort{
+  position: absolute;
+left: 13.43%;
+right: 6.14%;
+top: 6.22%;
+bottom: 77.11%;
+
+font-family: 'Proxima Nova' sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+color: #22262A;
+}
