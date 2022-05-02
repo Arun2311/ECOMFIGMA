@@ -54,7 +54,7 @@ export default function () {
         <p className="hot1">Hot Deals</p>
         <div className="lit">
           <p>Nike</p>
-          <p className="ari">Arimax</p>
+          <p className="arib">Arimax</p>
           <p>Nike</p>
 
           <p>Vans</p>
@@ -65,13 +65,12 @@ export default function () {
           <div className="op">
             <p>2</p>
           </div>
-          <p className="ari">48</p>
+          <p className="couadiarr">48</p>
           <div className="op">
-            <p>14</p>
-            <p>15</p>
-            <p>23</p>
-            <p>1</p>
-            <p>95</p>
+                <p className="couadi">15</p>
+            <p className="couall">23</p>
+            <p className="couadiarr1">1</p>
+            <p className="counik">95</p>
           </div>
         </div>
       </div>
@@ -122,7 +121,7 @@ export default function () {
         <p className="adit">Adidas Men Running</p>
         <p className="aditsa"> Sneakers</p>
         <p className="per">Performance and design. Taken right to the edge.</p>
-        <p className="SHOP">SHOP NOW</p>
+        <p className="SHOP">SHOPNOW</p>
         <div className="line"></div>
       </div>
       <div className="lis">
@@ -141,6 +140,7 @@ export default function () {
         </div>
         {/* ------ */}
         <img className="sh1" src={imagep}></img>
+        <div className="hot31"><p className="hotp">HOT</p></div>
         <p className="nike">Nike Airmax 270 React</p>
         <div className="star">
           <AiFillStar />
@@ -184,6 +184,8 @@ export default function () {
         {/* 
    ----- */}
         <img className="bg1" src={bag1}></img>
+        <div className="hot31sh2"><p className="hotpsh2">HOT</p></div>
+
         <p className="nike1">Nike Airmax 270 React</p>
         <div className="star2311">
           <AiFillStar />
@@ -225,6 +227,8 @@ export default function () {
         </p>
         <div className="img1l2"></div>
         <img className="bsho" src={blues}></img>
+        <div className="hot31sh3"><p className="hotpsh3">HOT</p></div>
+
         <p className="nike1sho">Nike Airmax 270 React</p>
         <div className="star2311sh">
           <AiFillStar />
@@ -266,6 +270,8 @@ export default function () {
         </p>
         <div className="img1l2sh"></div>
         <img className="bshola" src={blues2}></img>
+        <div className="hot31sh4"><p className="hotpsh3">HOT</p></div>
+
         <p className="nike1shola">Nike Airmax 270 React</p>
         <div className="starshl">
           <AiFillStar />
@@ -297,7 +303,7 @@ export default function () {
           </p>
           <div className="cart122sh"></div>
         </div>
-        <div className="cart122shla"></div>{" "}
+        <div className="cart122shla"></div>
       </div>
       <div className="a122shla">
         <AiOutlineShoppingCart />
