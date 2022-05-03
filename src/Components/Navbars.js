@@ -121,7 +121,7 @@ export default function () {
         <p className="adit">Adidas Men Running</p>
         <p className="aditsa"> Sneakers</p>
         <p className="per">Performance and design. Taken right to the edge.</p>
-        <p className="SHOP">SHOPNOW</p>
+        <p className="SHOP">SHOP NOW</p>
         <div className="line"></div>
       </div>
       <div className="lis">
@@ -367,3 +367,7 @@ Terms & Conditions</p>
     </div>
   );
 }
+
+
+
+{/* <end></end> */}

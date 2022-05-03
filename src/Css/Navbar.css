@@ -5,6 +5,11 @@
   align-items: center;
 } */
 
+
+
+.tam{
+
+}
 .en {
   position: absolute;
   left: 5.61%;
@@ -985,7 +990,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 9.29%;
   right: 63.2%;
-  top: 83.69%;
+  top: 84.90%;
   bottom: 81.22%;
   height: 2.7px;
   width: 37.4px;
@@ -1173,7 +1178,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 33.94%;
   right: 3.12%;
-  top: 76.25%;
+  top: 85.25%;
   bottom: 7.49%;
 
   font-family: "Poppins" sans-serif;
@@ -2040,7 +2045,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 51.31%;
   right: 4.82%;
-  top: 314%;
+  top: 313%;
   bottom: 66.17%;
 
   font-family: "Proxima Nova" sans-serif;
@@ -2089,7 +2094,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 49.31%;
   right: 4.82%;
-  top: 317%;
+  top: 316%;
   bottom: 66.17%;
 
   font-family: "Proxima Nova" sans-serif;
@@ -2169,7 +2174,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 62.21%;
   right: 37.92%;
-  top: 313.9%;
+  top: 312.9%;
   bottom: 65.63%;
   height: 46px;
   width: 46px;
@@ -2435,12 +2440,12 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 13.39%;
   right: 8.01%;
-  top: 12.62%;
+  top: 13.62%;
   bottom: 17.44%;
 
   font-family: "Poppins" sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 18px;
   line-height: 27px;
   /* identical to box height */
@@ -2485,7 +2490,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 43.4%;
   right: 43.4%;
-  top: 23%;
+  top: 22%;
   bottom: 14.92%;
 
   font-family: "Proxima Nova" sans-serif;
@@ -2501,7 +2506,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 43.5%;
   right: 55.99%;
-  top: 40%;
+  top: 35%;
   bottom: 13.6%;
 }
 
@@ -2509,7 +2514,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 46.63%;
   right: 52.39%;
-  top: 40%;
+  top: 35.40%;
   bottom: 13.65%;
 }
 
@@ -2534,7 +2539,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 70.43%;
   right: 18.69%;
-  top: 22.61%;
+  top: 20.91%;
   bottom: 14.18%;
 
   font-family: "Poppins" sans-serif;
@@ -2567,7 +2572,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 10.32%;
   right: 81.9%;
-  top: 58.8%;
+  top: 57.8%;
   bottom: 8.26%;
 
   font-family: "Poppins" sans-serif;
@@ -2600,7 +2605,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 31.35%;
   right: 60.52%;
-  top: 58.78%;
+  top: 57.78%;
   bottom: 6.29%;
 
   font-family: "Poppins" sans-serif;
@@ -2633,7 +2638,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 56.52%;
   right: 35.52%;
-  top: 58.78%;
+  top: 57.78%;
   bottom: 6.29%;
 
   font-family: "Poppins" sans-serif;
@@ -2666,7 +2671,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   position: absolute;
   left: 79.24%;
   right: 13%;
-  top: 58.8%;
+  top: 57.8%;
   bottom: 6.49%;
 
   font-family: "Poppins" sans-serif;
@@ -2726,6 +2731,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   bottom: 37.95%;
   width: 40px;
   height: 20px;
+  border-radius: 4px;
 
   background: #ff4858;
 }
@@ -2786,6 +2792,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   bottom: 37.95%;
   width: 40px;
   height: 20px;
+  border-radius: 4px;
 
   background: #ff4858;
 }
@@ -2815,6 +2822,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   bottom: 37.95%;
   width: 40px;
   height: 20px;
+  border-radius: 4px;
 
   background: #ff4858;
 }
@@ -2844,6 +2852,7 @@ input[type="range"]:active::-webkit-slider-thumb {
   bottom: 37.95%;
   width: 40px;
   height: 20px;
+  border-radius: 4px;
 
   background: #ff4858;
 }
@@ -2864,4 +2873,6 @@ input[type="range"]:active::-webkit-slider-thumb {
 
   color: #ffffff;
 }
-/* end */
+
+
+/* <end> */
