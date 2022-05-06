@@ -165,6 +165,29 @@
 
   /* background: #22262A; */
 }
+.lo:hover{
+  transform: scale(1,1);
+}
+
+.blue:hover{
+  transform: scale(1,1);
+}
+
+.shoe1:hover{
+  transform: scale(1.1);
+}
+
+.bg1:hover{
+  transform: scale(1.1);
+}
+.bshola:hover{
+  transform: scale(1.1);
+}
+
+.sh1:hover{
+  transform: scale(1.1);
+}
+
 
 .divi {
   position: absolute;
